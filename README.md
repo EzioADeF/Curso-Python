@@ -11,4 +11,8 @@
 ### Dia 3
 [7. Pandas](https://github.com/EzioADeF/Curso-Python/blob/Dia-3/Copia%20de%20M4%20-%2010%20-%20Pandas.ipynb) <br>
 [8. Prophet](https://github.com/EzioADeF/Curso-Python/blob/Dia-3/Copia%20de%20Prophet%20-%20Predecir%20el%20valor%20de%20Bitcoin.ipynb) <br>
-[9. SpaceX](https://github.com/EzioADeF/Curso-Python/blob/Dia-3/Copia%20de%20SpaceX%20-%201%20-%20Data%20Collection%20Api%20v2.ipynb) <br>
+[9. SpaceX 1](https://github.com/EzioADeF/Curso-Python/blob/Dia-3/Copia%20de%20SpaceX%20-%201%20-%20Data%20Collection%20Api%20v2.ipynb) <br>
+### Dia 4
+[10. SpaceX 2](https://github.com/EzioADeF/Curso-Python/blob/Dia-4/Copia%20de%20SpaceX%20-%202%20-%20EDA.ipynb) <br>
+[11. SpaceX 3](https://github.com/EzioADeF/Curso-Python/blob/Dia-4/Copia%20de%20SpaceX%20-%203%20-EDA%20Using%20SQL.ipynb) <br>
+[12. SpaceX 4](https://github.com/EzioADeF/Curso-Python/blob/Dia-4/Copia%20de%20SpaceX%20-%204%20-%20EDA%20with%20Data%20Visualization.ipynb) <br>
