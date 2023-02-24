@@ -16,3 +16,5 @@
 [10. SpaceX 2](https://github.com/EzioADeF/Curso-Python/blob/Dia-4/Copia%20de%20SpaceX%20-%202%20-%20EDA.ipynb) <br>
 [11. SpaceX 3](https://github.com/EzioADeF/Curso-Python/blob/Dia-4/Copia%20de%20SpaceX%20-%203%20-EDA%20Using%20SQL.ipynb) <br>
 [12. SpaceX 4](https://github.com/EzioADeF/Curso-Python/blob/Dia-4/Copia%20de%20SpaceX%20-%204%20-%20EDA%20with%20Data%20Visualization.ipynb) <br>
+# EXTRAS
+[SpaceX 5](https://github.com/EzioADeF/Curso-Python/blob/Extras/Copia_de_M5_SPACEX2_5_Interactive_Visual_Analytics_con_Folium.ipynb)
